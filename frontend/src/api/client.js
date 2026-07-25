@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || "https://routewise-production-7e3b.up.railway.app";
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || "https://routewise-production-7e3b.up.railway.app/api";
 
 const client = axios.create({
   baseURL: API_BASE_URL,
