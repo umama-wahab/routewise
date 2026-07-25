@@ -108,6 +108,10 @@ CORS_ALLOWED_ORIGINS = [
 ]
 # Also allow any *.vercel.app preview/production deployment of the frontend.
 CORS_ALLOWED_ORIGIN_REGEXES = [r"^https://.*\.vercel\.app$"]
+CSRF_TRUSTED_ORIGINS = [
+    "https://routewise-umber.vercel.app",
+    "https://routewise-production-7e3b.up.railway.app",
+]
 
 # RouteWise routing/geocoding configuration
 ORS_API_KEY = os.getenv("ORS_API_KEY", "").strip()
