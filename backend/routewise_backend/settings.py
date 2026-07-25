@@ -14,8 +14,11 @@ SECRET_KEY = os.getenv("SECRET_KEY", "insecure-dev-key-change-me")
 
 DEBUG = os.getenv("DEBUG", "True") == "True"
 
+
 ALLOWED_HOSTS = [
-    h.strip() for h in os.getenv("ALLOWED_HOSTS", "127.0.0.1,localhost").split(",") if h.strip()
+    "127.0.0.1",
+    "localhost",
+    "routewise-production-7e3b.up.railway.app",
 ]
 # Render.com provides its external hostname via this env var.
 render_host = os.getenv("RENDER_EXTERNAL_HOSTNAME")
