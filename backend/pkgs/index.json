@@ -1,0 +1,228 @@
+{
+  "versions": [
+    {
+      "schema": 1,
+      "id": "pythoncore-3.12-64",
+      "sort-version": "3.12.10",
+      "company": "PythonCore",
+      "tag": "3.12-64",
+      "install-for": [
+        "3.12.10-64",
+        "3.12-64",
+        "3-64"
+      ],
+      "alias": [
+        {
+          "target": "python.exe",
+          "name": "python3.12.exe"
+        },
+        {
+          "target": "python.exe",
+          "name": "python3.12-64.exe"
+        },
+        {
+          "target": "python.exe",
+          "name": "python3.exe"
+        },
+        {
+          "target": "python.exe",
+          "name": "python3-64.exe"
+        },
+        {
+          "target": "pythonw.exe",
+          "windowed": 1,
+          "name": "pythonw3.12.exe"
+        },
+        {
+          "target": "pythonw.exe",
+          "windowed": 1,
+          "name": "pythonw3.12-64.exe"
+        },
+        {
+          "target": "pythonw.exe",
+          "windowed": 1,
+          "name": "pythonw3.exe"
+        },
+        {
+          "target": "pythonw.exe",
+          "windowed": 1,
+          "name": "pythonw3-64.exe"
+        }
+      ],
+      "display-name": "Python 3.12.10",
+      "executable": ".\\python.exe",
+      "url": "pythoncore-3.12-64-3.12.10.zip",
+      "hash": {
+        "sha256": "8649692de846c56a7189d6dae5c322ab20deb1b5908b6f39426b62a36f39415d"
+      }
+    },
+    {
+      "schema": 1,
+      "id": "pythoncore-3.12-arm64",
+      "sort-version": "3.12.10",
+      "company": "PythonCore",
+      "tag": "3.12-arm64",
+      "install-for": [
+        "3.12.10-arm64",
+        "3.12-arm64",
+        "3-arm64"
+      ],
+      "alias": [
+        {
+          "target": "python.exe",
+          "name": "python3.12.exe"
+        },
+        {
+          "target": "python.exe",
+          "name": "python3.12-arm64.exe"
+        },
+        {
+          "target": "python.exe",
+          "name": "python3.exe"
+        },
+        {
+          "target": "python.exe",
+          "name": "python3-arm64.exe"
+        },
+        {
+          "target": "pythonw.exe",
+          "windowed": 1,
+          "name": "pythonw3.12.exe"
+        },
+        {
+          "target": "pythonw.exe",
+          "windowed": 1,
+          "name": "pythonw3.12-arm64.exe"
+        },
+        {
+          "target": "pythonw.exe",
+          "windowed": 1,
+          "name": "pythonw3.exe"
+        },
+        {
+          "target": "pythonw.exe",
+          "windowed": 1,
+          "name": "pythonw3-arm64.exe"
+        }
+      ],
+      "display-name": "Python 3.12.10 (ARM64)",
+      "executable": ".\\python.exe",
+      "url": "pythoncore-3.12-arm64-3.12.10.zip",
+      "hash": {
+        "sha256": "20a5b1a707d899ffdfc5e3086d7372f7cc95eeea344d48ae256047cb7075cf63"
+      }
+    },
+    {
+      "schema": 1,
+      "id": "pythoncore-3.13-64",
+      "sort-version": "3.13.14",
+      "company": "PythonCore",
+      "tag": "3.13-64",
+      "install-for": [
+        "3.13.14-64",
+        "3.13-64",
+        "3-64"
+      ],
+      "alias": [
+        {
+          "target": "python.exe",
+          "name": "python3.13.exe"
+        },
+        {
+          "target": "python.exe",
+          "name": "python3.13-64.exe"
+        },
+        {
+          "target": "python.exe",
+          "name": "python3.exe"
+        },
+        {
+          "target": "python.exe",
+          "name": "python3-64.exe"
+        },
+        {
+          "target": "pythonw.exe",
+          "windowed": 1,
+          "name": "pythonw3.13.exe"
+        },
+        {
+          "target": "pythonw.exe",
+          "windowed": 1,
+          "name": "pythonw3.13-64.exe"
+        },
+        {
+          "target": "pythonw.exe",
+          "windowed": 1,
+          "name": "pythonw3.exe"
+        },
+        {
+          "target": "pythonw.exe",
+          "windowed": 1,
+          "name": "pythonw3-64.exe"
+        }
+      ],
+      "display-name": "Python 3.13.14",
+      "executable": ".\\python.exe",
+      "url": "pythoncore-3.13-64-3.13.14.zip",
+      "hash": {
+        "sha256": "f73b6535281b58eee6bcfb3403af2bcfac711ea1463d8340c47c3047248eddf7"
+      }
+    },
+    {
+      "schema": 1,
+      "id": "pythoncore-3.13-arm64",
+      "sort-version": "3.13.14",
+      "company": "PythonCore",
+      "tag": "3.13-arm64",
+      "install-for": [
+        "3.13.14-arm64",
+        "3.13-arm64",
+        "3-arm64"
+      ],
+      "alias": [
+        {
+          "target": "python.exe",
+          "name": "python3.13.exe"
+        },
+        {
+          "target": "python.exe",
+          "name": "python3.13-arm64.exe"
+        },
+        {
+          "target": "python.exe",
+          "name": "python3.exe"
+        },
+        {
+          "target": "python.exe",
+          "name": "python3-arm64.exe"
+        },
+        {
+          "target": "pythonw.exe",
+          "windowed": 1,
+          "name": "pythonw3.13.exe"
+        },
+        {
+          "target": "pythonw.exe",
+          "windowed": 1,
+          "name": "pythonw3.13-arm64.exe"
+        },
+        {
+          "target": "pythonw.exe",
+          "windowed": 1,
+          "name": "pythonw3.exe"
+        },
+        {
+          "target": "pythonw.exe",
+          "windowed": 1,
+          "name": "pythonw3-arm64.exe"
+        }
+      ],
+      "display-name": "Python 3.13.14 (ARM64)",
+      "executable": ".\\python.exe",
+      "url": "pythoncore-3.13-arm64-3.13.14.zip",
+      "hash": {
+        "sha256": "af0af0b7bf4295de6cc0f85b14100bc587511c09dfcc5c14eacb962ad986ca4c"
+      }
+    }
+  ]
+}
